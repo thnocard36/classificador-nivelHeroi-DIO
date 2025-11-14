@@ -1,12 +1,10 @@
 # ⚔️ Desafio: Classificador de Nível de Herói
 
-Desafio de programação para praticar conceitos básicos de '**JavaScript**'.
+Desafio de programação para praticar conceitos básicos de '**JavaScript**'. Sugerido pelo [Prof° Felipe Aguiar](https://github.com/felipeAguiarCode).
 
 ## 🔗 Autor
 
 Projeto desenvolvido por: [Thiago Cardoso](https://github.com/thnocard36)
-
-Projeto Sugerido por: [Prof° Felipe Aguiar](https://github.com/felipeAguiarCode)
 
 ## 🎯 Objetivo do Desafio
 
@@ -39,4 +37,4 @@ O nível do herói será determinado pelas seguintes faixas de XP:
 
 ## 🚀 Saída Esperada
 
-Ao final da execução, o programa deve exibir a seguinte mensagem, substituindo **`{nome}`** e **`{nivelX}`** pelos valores correspondentes:
+Ao final da execução, o programa deve exibir a seguinte mensagem, substituindo **`{nome}`** e **`{nivelXP}`** pelos valores correspondentes:
