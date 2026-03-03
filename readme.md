@@ -1,7 +1,12 @@
-
 # ⚔️ Classificador de Nível de Herói por XP
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen?style=for-the-badge)
+![Logic](https://img.shields.io/badge/Tipo-Lógica_de_Programação-lightgrey?style=for-the-badge)
+![DIO](https://img.shields.io/badge/Origem-Digital_Innovation_One-EE2E5D?style=for-the-badge)
+
 Este projeto em JavaScript implementa um classificador que determina o nível (rank) de um herói com base na sua quantidade de **Experiência (XP)**. O exercício foca no uso de **Estruturas de Decisão** (`if/else if/else`).
+
 ## 🧑‍💻 Créditos
 
 | **Categoria** | **Detalhes** |
@@ -9,9 +14,13 @@ Este projeto em JavaScript implementa um classificador que determina o nível (r
 | **Autor** | [Thiago Cardoso](https://github.com/thnocard36) |
 | **Professor / Instrutor** | [Prof. Felipe Aguiar](https://github.com/felipeAguiarCode) |
 
+----
+
 ## 🎯 Objetivo
 
 Desenvolver um classificador que receba o nome do herói e sua quantidade de XP, e utilize estruturas condicionais para definir e exibir o nível do herói de acordo com faixas de XP predefinidas.
+
+----
 
 ## ✨ Conceitos Trabalhados
 
@@ -20,7 +29,8 @@ Desenvolver um classificador que receba o nome do herói e sua quantidade de XP,
 -   **Operadores**
     
 -   **Estruturas de Decisão** (`if`, `else if`, `else`)
-    
+
+----
 
 ## 🗺️ Regras de Classificação (XP Requerida)
 
@@ -37,7 +47,7 @@ O nível do herói é determinado pelas seguintes faixas de XP, conforme o enunc
 | $9.001 - 10.000$ | **Imortal** |
 | $> 10.001$ | **Radiante** |
 
-----------
+----
 
 ## 💻 Código JavaScript
 
@@ -79,7 +89,7 @@ console.log(`O Herói ${nomePersonagem}, está no nivel ${nivelXP} ${nivel}`);
 
 ```
 
-----------
+----
 
 ## ⚙️ Como Executar
 
@@ -99,3 +109,9 @@ Para testar o classificador em seu ambiente local:
     ```
     
 4.  A saída será exibida no console, mostrando o nível do herói.
+
+----
+
+## ⚖️ Licença
+
+Este projeto está sob a licença MIT. Isso significa que você pode copiar, modificar e distribuir o código, desde que inclua o aviso de copyright original.
